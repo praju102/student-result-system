@@ -9,6 +9,7 @@ print("Name:", name)
 print("Age:", age)
 print("Marks:", marks)
 print("Percentage:", percentage, "%")
+print("Thankyou for using Student Reselt System")
 
 if marks >= 35:
     print("Result: PASS")
